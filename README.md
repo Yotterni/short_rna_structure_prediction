@@ -6,3 +6,5 @@ A repo for my tiny library I built conducting experiments for Stanford RNA 3D Fo
 `engine`: source code of the kaggle competition project (with data preparation, training utils etc.)
 
 `Dockerfile`: docker file for huggingface space
+
+As a freezed pretrained model for nucleotide feature extraction I used [`ArmNet`](https://github.com/autosome-ru/ArmNet/).
